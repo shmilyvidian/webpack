@@ -1,0 +1,15 @@
+/*! make 2019 by shmilyvidian */
+body{
+  font-size: 20px;
+}
+body {
+  background-color: red
+}
+body div {
+  border: 1px solid blue;
+  -webkit-transform: rotate(15deg);
+          transform: rotate(15deg);
+}
+
+
+/*# sourceMappingURL=main.css.map*/
